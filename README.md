@@ -7,4 +7,4 @@
    <img height="137px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alanyaeer&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> 
 </div>
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alanyaeer&theme=dracula"> </div>
-![](https://raw.githubusercontent.com/javadog-net/javadog-net/output/github-contribution-grid-snake.svg)
+<div align="center"><img src="https://raw.githubusercontent.com/Alanyaeer/Alanyaeer/assets/github-contribution-grid-snake.svg" /></div>
